@@ -108,8 +108,3 @@ class Player
     @score = 0
   end
 end
-
-test = Game.new
-loop do
-  test.play
-end
